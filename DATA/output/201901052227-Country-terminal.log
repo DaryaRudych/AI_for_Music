@@ -1,0 +1,142 @@
+Terminal output being saved at /Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/output/201901052227-Country-terminal.log
+
+**Loading Midi files**
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/HungryEyes.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WorkingmanBlues.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BigCity.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/DaddyFrank.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/GeorgiaOnMyMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AmIStandinginyourway.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WildSideOfLife (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Singmebackhome.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Alwaysonmymind (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IthinkIlljustgetdrunk.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/NobodysbabybutMine.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TroubleinMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Fraulein.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Crazy (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MyOwnPeculiarWay.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SevenspanishAngel.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Forgivingyouwaseasy.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BornToLose.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MamaTried.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Silverwings (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ithrewawaytherose.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LetschaseeachotherAroundtheRoom.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Crazy.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Cityofneworleans (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (3).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AlwaysLate (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MoonRiver (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Fightinsideofme.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SeashoresofoldMexico.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LetItBeMe (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ReasonsToQuit.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IfyougotthemoneyHoney.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/FunnyHowTimeSlipsAway.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/CityofNewOrleans.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ImconfessingthatIloveyou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/HealingHandsofTime.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BornToLose (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/FunnyHowTimeSlipsAway (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MammasDontLetYourBabbiesGrowUpToBeCowboys.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Rememberme.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ibelieveinyou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WhenMyblueMoonturnstoGold.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BlueEyesCryinInTheRain.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/NowandthentheresafoolsuchasI.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BrandedMan.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IGottaGetDrunk.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/GoodHeartedWoman (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TodayIstartedlovinYou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/UnderTheDoubleEagle (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WildSideOfLife.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LonesomeFugitive.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IBelieveInYou (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/PrettyPaper.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SwinginDoors.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TwinkletwinkleLuckyStars.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TouchMe.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/OnTheRoadAgain.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Moonriver.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MyheroeshavealwaysbeenCowboys.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AlwaysOnMyMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ThatsTheWayLoveGoes.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Carolyn.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ifwemakeitthroughdecember.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AllmyFriendsaregonnabestrangers.mid
+
+**Loading Midi files**
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/HungryEyes.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WorkingmanBlues.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BigCity.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/DaddyFrank.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/GeorgiaOnMyMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AmIStandinginyourway.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WildSideOfLife (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Singmebackhome.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Alwaysonmymind (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IthinkIlljustgetdrunk.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/NobodysbabybutMine.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TroubleinMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Fraulein.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Crazy (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MyOwnPeculiarWay.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SevenspanishAngel.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Forgivingyouwaseasy.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BornToLose.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MamaTried.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Silverwings (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ithrewawaytherose.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LetschaseeachotherAroundtheRoom.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Crazy.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Cityofneworleans (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (3).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AlwaysLate (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MoonRiver (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Fightinsideofme.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SeashoresofoldMexico.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LetItBeMe (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ReasonsToQuit.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IfyougotthemoneyHoney.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/FunnyHowTimeSlipsAway.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/CityofNewOrleans.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ImconfessingthatIloveyou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/HealingHandsofTime.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BornToLose (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/FunnyHowTimeSlipsAway (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (2).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MammasDontLetYourBabbiesGrowUpToBeCowboys.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Rememberme.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ibelieveinyou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WhenMyblueMoonturnstoGold.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BlueEyesCryinInTheRain.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/NowandthentheresafoolsuchasI.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SanAntonioRose (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/BrandedMan.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IGottaGetDrunk.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/GoodHeartedWoman (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TodayIstartedlovinYou.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/UnderTheDoubleEagle (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/WildSideOfLife.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/LonesomeFugitive.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IBelieveInYou (1).mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/PrettyPaper.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SwinginDoors.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TwinkletwinkleLuckyStars.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/TouchMe.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/OnTheRoadAgain.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Moonriver.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/MyheroeshavealwaysbeenCowboys.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AlwaysOnMyMind.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ThatsTheWayLoveGoes.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Carolyn.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/Ifwemakeitthroughdecember.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/AllmyFriendsaregonnabestrangers.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/IThinkIllJustStayHereAndDrink.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/UnderthedoubleEagle.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/GoodHeartedWoman.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/SeashoreofoldMexico.mid
+/Users/anant.a.sharma/Desktop/Darya/AI_for_Music/DATA/Country/ThreeDays.mid
