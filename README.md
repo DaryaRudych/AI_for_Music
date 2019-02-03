@@ -25,7 +25,7 @@ For this project we used CBLTSM RNN Model. The choise of the model was determine
 2. Music21 toolkit that allows to extract notes, chords, pitch from our data set.
 3. Since MIDI files are not very common, for each of the genres we had different number of available MIDI files.
 
-![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/DataTable.png)
+![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/DataTable.png)
 
 ## Data Preparation Pipeline
 1. Assign an id to each unique note
