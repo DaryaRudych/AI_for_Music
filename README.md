@@ -1,5 +1,10 @@
 # Music Generation with LTSM RNN
-(Darya Rudych: data & modeling, 
+
+## Presented by: 
+Darya Rudych: data & modeling 
+Shweta Banerjee: web-development
+Bowie Hand: web-development
+Jessica Sierna: data preparation
 
 ![header image](https://i.ytimg.com/vi/WqE9zIp0Muk/maxresdefault.jpg)
 
@@ -34,3 +39,32 @@ For this project we used CBLTSM RNN Model. The choise of the model was determine
 ![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/Model.png)
 
 ![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/Model2.png)
+
+## Generating Music
+
+1. For each note that we want to generate we submit a sequence to the network. 
+2. We generate the first sequence at a random starting point
+3. Sequence shifts over one by one until the model has generated a full sequence of the requested notes
+
+![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/GenerationSchema.png)
+
+## Model Evaluation
+
+1. Loss for jazz training at 50 epochs and sequence length = 100
+![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/loss1.png)
+
+2. Loss for Bollywood training at 70 epochs and sequence length = 200
+![Alt text](https://github.com/DaryaRudych/AI_for_Music/blob/master/images/loss2.png)
+
+*Training at more epochs and longer input sequence length clearly performs better*
+
+## Let's Hear It! 
+
+*Run run.sh to play the generated midi files*
+
+## Limitations & Challenges 
+1. Lack of midi data
+2. Polyphonic tunes are hard to encode
+3. VERY LONG training runtime 
+4. Lack of deep understanding of music composition
+
