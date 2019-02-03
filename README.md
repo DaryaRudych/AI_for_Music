@@ -1,10 +1,10 @@
 # Music Generation with LTSM RNN
 
-## Presented by: 
-Darya Rudych: data & modeling 
-Shweta Banerjee: web-development
-Bowie Hand: web-development
-Jessica Sierna: data preparation
+### Presented by: 
+- Darya Rudych: data & modeling 
+- Shweta Banerjee: web-development
+- Bowie Hand: web-development
+- Jessica Sierna: data preparation
 
 ![header image](https://i.ytimg.com/vi/WqE9zIp0Muk/maxresdefault.jpg)
 
